@@ -1,5 +1,6 @@
 # MVS_CameraFocus
 海康威视工业相机对焦标定的简单实现
+
 *开发环境：Qt 5.12.3(mingw版) + Opencv 4.3 + MVS 3.2.0*
 
 图像正中间窗口为ROI，目标需放置在其中
